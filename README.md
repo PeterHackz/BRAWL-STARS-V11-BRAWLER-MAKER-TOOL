@@ -20,3 +20,5 @@ S.B#9838
 # LINKS
 - [discord server](https://discord.gg/DBXrZtEHzv)
 - [tiktok](https://vm.tiktok.com/ZSJctFnPV/)
+# STAR
+Give star 🌟 for this repo :p
