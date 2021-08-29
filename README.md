@@ -19,7 +19,7 @@ Run main.py and answer the followed questions, and after questions are done, you
 - create custom star powers for the brawler
 - create custom projectile (by default it is Rico atk proj) 
 - support area effects in attacks or ulti
-- support creating more thnn 1 brawler
+- support creating more than 1 brawler
 # AUTHORS
 S.B#9838
 # LINKS
