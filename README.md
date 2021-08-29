@@ -15,6 +15,11 @@ Run main.py and answer the followed questions, and after questions are done, you
 - the tool supports creating only 1 brawler per the csvs that it offers, due to something called "sort order" in cards.csv, I'll try finding a way to make it supports more later
 - adding your own skin isn't a feature, it will use shelly model for your brawler that can be changed by manually editing skins.csv
 - do NOT add your own csvs in the csvs folder, this may result in a crash
+# TODO
+- create custom star powers for the brawler
+- create custom projectile (by default it is Rico atk proj) 
+- support area effects in attacks or ulti
+- support creating more thnn 1 brawler
 # AUTHORS
 S.B#9838
 # LINKS
