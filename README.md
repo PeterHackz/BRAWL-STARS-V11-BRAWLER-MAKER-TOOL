@@ -20,7 +20,6 @@ Run main.py and answer the followed questions, and after questions are done, you
 - create custom projectile (by default it is Rico atk proj) 
 - support area effects in attacks or ulti
 - support creating more than 1 brawler
-- support other versions
 # AUTHORS
 S.B#9838
 # LINKS
