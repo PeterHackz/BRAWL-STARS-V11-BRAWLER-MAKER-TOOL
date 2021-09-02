@@ -23,7 +23,6 @@ Run main.py and answer the followed questions, and after questions are done, you
 # AUTHORS
 S.B#9838
 # LINKS
-- [discord server](https://discord.gg/DBXrZtEHzv)
-- [tiktok](https://vm.tiktok.com/ZSJctFnPV/)
+- [Join my discord server](https://discord.gg/b2ejYcJjqA)
 # STAR
 Give star 🌟 for this repo :p
